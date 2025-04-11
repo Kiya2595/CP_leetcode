@@ -1,1 +1,1 @@
-# Cp_leetcode
+A Python course assignment given by our Instructor 👨‍💻 Kidus Zekarias and done by his student 👩‍🏫 Feven Aynalem. 
